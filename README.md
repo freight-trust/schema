@@ -11,6 +11,11 @@
 
 </pre>
 
+> `vcs-refs`
+> commit id of when your image was built
+
+> `build-date`
+> timestamp of when image was built your image 
 
 
 # Annotations
